@@ -1,0 +1,35 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>University Cafeteria</title>
+</head>
+<body>
+
+    <header>
+        <h1>University Cafeteria</h1>
+    </header>
+
+    <nav>
+        <a href="/Cafeteria/Index">Home</a> |
+        <a href="/Cafeteria/product">Products</a> |
+        <a href="/Cafeteria/Suppliers">Suppliers</a> |
+        <a href="/Cafeteria/SupplyStatus">Supply Status</a>
+    </nav>
+
+    <hr />
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <hr />
+
+    <footer>
+        <p>University Cafeteria - All Rights Reserved</p>
+    </footer>
+
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

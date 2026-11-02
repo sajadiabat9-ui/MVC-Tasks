@@ -19,7 +19,6 @@ C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\University
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\scopedcss\bundle\UniversityCafeteria.styles.css
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\scopedcss\projectbundle\UniversityCafeteria.bundle.scp.css
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\pvshre2o0a-{0}-b9sayid5wm-b9sayid5wm.gz
@@ -84,8 +83,6 @@ C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\36xem5slko-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\1isyksi2xo-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\bycboxlth5-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\t40pggn6ih-{0}-3utv06osg4-3utv06osg4.gz
-C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\h6k9mxx919-{0}-3utv06osg4-3utv06osg4.gz
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\staticwebassets.development.json
@@ -98,3 +95,6 @@ C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\University
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\UniversityCafeteria.genruntimeconfig.cache
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\ref\UniversityCafeteria.dll
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\Universi.3D4266FD.Up2Date
+C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\scopedcss\Views\Shared\_MainLayout.cshtml.rz.scp.css
+C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\t40pggn6ih-{0}-xekmpxc3rq-xekmpxc3rq.gz
+C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteria\obj\Debug\net10.0\compressed\h6k9mxx919-{0}-xekmpxc3rq-xekmpxc3rq.gz
