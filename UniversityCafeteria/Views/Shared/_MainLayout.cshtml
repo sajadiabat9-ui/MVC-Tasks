@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>University Cafeteria</title>
+@RenderSection("Styles", required: false)
 </head>
 <body>
 
@@ -11,10 +12,18 @@
     </header>
 
     <nav>
+        <!-- Day 1 -->
         <a href="/Cafeteria/Index">Home</a> |
         <a href="/Cafeteria/product">Products</a> |
         <a href="/Cafeteria/Suppliers">Suppliers</a> |
         <a href="/Cafeteria/SupplyStatus">Supply Status</a>
+
+        <!-- Day 3 -->
+        | <a href="/Supply/Index">Supply Home</a> |
+        <a href="/Supply/Products">Products</a> |
+        <a href="/Supply/Suppliers">Suppliers</a> |
+        <a href="/Supply/CreateRequest">Create Request</a> |
+        <a href="/Supply/About">About</a>
     </nav>
 
     <hr />
@@ -33,3 +42,4 @@
 
 </body>
 </html>
+

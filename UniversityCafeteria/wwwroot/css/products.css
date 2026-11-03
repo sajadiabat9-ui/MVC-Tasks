@@ -1,0 +1,21 @@
+﻿
+body {
+    background-color: #f5f5dc;
+}
+
+h2 {
+    color: darkgreen;
+    text-align: center;
+}
+
+ul {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+li {
+    font-size: 18px;
+    margin: 10px;
+    color: #333;
+}
