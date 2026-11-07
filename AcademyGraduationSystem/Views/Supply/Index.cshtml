@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Graduation Supply Offers</h1>
+<a asp-controller="Supply" asp-action="Review">
+    Review My Selection
+</a>
+
+@if (TempData["Message"] != null)
+{
+    <p>@TempData["Message"]</p>
+} 
+
+@{
+    var categories = ViewBag.Categories;
+    var suppliers = ViewBag.Suppliers;
+    var offers = ViewBag.Offers;
+}//ااستقبلنا اللستات من الكنترولر 
+
+@foreach (var category in categories)
+{
+    <h2>@category.Name</h2>
+    @foreach (var supplier in suppliers)
+    {
+        if (supplier.CategoryId == category.Id)
+        {
+            <h3>@supplier.Name</h3>
+            @foreach (var offer in offers)
+            {
+                if (offer.SupplierId == supplier.Id)
+                {
+                    <p>Offer: @offer.Name</p>
+                    <p>Quantity: @offer.Quantity</p>
+                    <p>Unit Price: @offer.UnitPrice JD</p>
+
+
+                    <form asp-action="SelectOffer" method="post">
+                        <input type="hidden" name="offerId" value="@offer.Id" />
+                        <button type="submit">Select Offer</button>
+                    </form>
+                }
+
+
+            }
+        }
+    }
+}

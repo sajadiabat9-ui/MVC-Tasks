@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Review Supply Request</h1>
+
+<p>Here are your selected offers:</p>
+
+@{
+    var offers = ViewBag.Offers;
+    var suppliers = ViewBag.Suppliers;
+}
+
+<h2>Selected Offers</h2>
+
+@foreach (var offer in offers)
+{
+    if (offer.Id == ViewBag.Category1 ||
+        offer.Id == ViewBag.Category2 ||
+        offer.Id == ViewBag.Category3)
+    {
+        <h3>@offer.Name</h3>
+        <p>Quantity: @offer.Quantity</p>
+        <p>Unit Price: @offer.UnitPrice JD</p>
+
+        foreach (var supplier in suppliers)
+        {
+            if (supplier.Id == offer.SupplierId)
+            {
+                <p>Supplier: @supplier.Name</p>
+            }
+        }
+    }
+}
+
+<hr />
+
+<h2>Price Summary</h2>
+
+<p>Total Price: @ViewBag.TotalPrice JD</p>
+
+<p>Discount Percentage: @(ViewBag.DiscountPercentage * 100)%</p>
+
+<p>Discount Amount: @ViewBag.DiscountAmount JD</p>
+
+<h3>Final Total: @ViewBag.FinalTotal JD</h3>
