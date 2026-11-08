@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Category
+
+@using UniversityCafeteriaTask6.Models
+
+<h2>Add New Category</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Name</label>
+        @Html.TextBoxFor(model => model.Name)
+    </div>
+
+    <div>
+        <label>Description</label>
+        @Html.TextBoxFor(model => model.Description)
+    </div>
+
+    <input type="submit" value="Save" />
+}

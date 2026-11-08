@@ -1,0 +1,34 @@
+﻿@using UniversityCafeteriaTask6.Models
+@model Product
+
+<h2>Add New Product</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Name</label>
+        @Html.TextBoxFor(model => model.Name)
+    </div>
+
+    <div>
+        <label>Price</label>
+        @Html.TextBoxFor(model => model.Price)
+    </div>
+
+    <div>
+        <label>Quantity</label>
+        @Html.TextBoxFor(model => model.Quantity)
+    </div>
+
+    <div>
+        <label>Category</label>
+        @Html.DropDownListFor(model => model.CategoryId, (SelectList)ViewBag.Categories)
+    </div>
+
+    <div>
+        <label>Supplier</label>
+        @Html.DropDownListFor(model => model.SupplierId, (SelectList)ViewBag.Suppliers)
+    </div>
+
+    <input type="submit" value="Save" />
+}
