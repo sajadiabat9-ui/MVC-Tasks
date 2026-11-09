@@ -22,7 +22,8 @@ namespace UniversityCafeteriaTask6.Controllers
            
         }
 
-        // Display Create form
+        // Display Create form that exists in the Views/Category/Create.cshtml file
+
         public IActionResult Create()
         {
             return View();

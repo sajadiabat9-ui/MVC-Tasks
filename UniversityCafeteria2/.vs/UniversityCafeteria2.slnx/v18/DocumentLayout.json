@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\migrations\\20261107120630_initialcreateemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\migrations\\20261107120630_initialcreateemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\cafeteriaemployeescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\cafeteriaemployeescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\migrations\\20261107120630_initialcreateemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\migrations\\20261107120630_initialcreateemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\cafeteriaemployeescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\cafeteriaemployeescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\universitycafeteria2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:universitycafeteria2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\models\\cafeteriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:models\\cafeteriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\models\\cafeteriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{935C7547-5013-4E56-8F22-DBE01850AB0D}|UniversityCafeteria2.csproj|solutionrelative:models\\cafeteriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|c:\\users\\user\\desktop\\mvc-tasks\\universitycafeteria2\\universitycafeteria2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88B530D3-CD67-38FF-253B-44C8D6DAEC46}|UniversityCafeteria2.csproj|solutionrelative:universitycafeteria2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20261107120630_InitialCreateEmployees.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Migrations\\20261107120630_InitialCreateEmployees.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Migrations\\20261107120630_InitialCreateEmployees.cs",
@@ -71,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CafeteriaEmployeesContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Models\\CafeteriaEmployeesContext.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\CafeteriaEmployeesContext.cs",
@@ -84,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PurchaseOrderItem.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Models\\PurchaseOrderItem.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\PurchaseOrderItem.cs",
@@ -92,12 +96,11 @@
               "RelativeToolTip": "CodeFirst\\Models\\PurchaseOrderItem.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T12:02:27.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T12:02:27.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PurchaseOrder.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Models\\PurchaseOrder.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\PurchaseOrder.cs",
@@ -110,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\Product.cs",
@@ -118,12 +121,11 @@
               "RelativeToolTip": "CodeFirst\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T11:58:11.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T11:58:11.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\Supplier.cs",
@@ -131,12 +133,11 @@
               "RelativeToolTip": "CodeFirst\\Models\\Supplier.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T11:57:04.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T11:57:04.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\CodeFirst\\Models\\Category.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Models\\Category.cs",
@@ -144,12 +145,11 @@
               "RelativeToolTip": "CodeFirst\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T11:56:04.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T11:56:04.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -157,12 +157,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T11:08:34.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T11:08:34.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -170,12 +169,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-07T11:08:26.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T11:08:26.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CafeteriaContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\Models\\CafeteriaContext.cs",
               "RelativeDocumentMoniker": "Models\\CafeteriaContext.cs",
@@ -183,21 +181,19 @@
               "RelativeToolTip": "Models\\CafeteriaContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T10:05:24.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T10:05:24.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UniversityCafeteria2",
+              "DocumentIndex": 10,
+              "Title": "UniversityCafeteria2.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\UniversityCafeteria2.csproj",
               "RelativeDocumentMoniker": "UniversityCafeteria2.csproj",
               "ToolTip": "C:\\Users\\user\\Desktop\\MVC-Tasks\\UniversityCafeteria2\\UniversityCafeteria2.csproj",
               "RelativeToolTip": "UniversityCafeteria2.csproj",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-07T09:58:24.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T09:58:24.709Z"
             }
           ]
         }

@@ -3,7 +3,9 @@
 *@
 @{
 }
-@model List<Category>
+@model List<Category> //اسم الكلاس
+
+    <a href="@Url.Action("Create", "Category")" class="btn-outline-secondary">Create New</a>
 <table class="table">
     <tr>
         <th>Id</th>
