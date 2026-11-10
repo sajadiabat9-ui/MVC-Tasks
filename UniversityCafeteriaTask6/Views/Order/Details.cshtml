@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Order
+
+<h2>Order Details</h2>
+
+<p>Id: @Model.Id</p>
+<p>Customer Name: @Model.CustomerName</p>
+<p>Order Date: @Model.OrderDate</p>
+<p>Total Price: @Model.TotalPrice</p>
+<p>Status: @Model.Status</p>
+<p>Employee Id: @Model.EmployeeId</p>
+
+<a asp-action="Index">Back to List</a>

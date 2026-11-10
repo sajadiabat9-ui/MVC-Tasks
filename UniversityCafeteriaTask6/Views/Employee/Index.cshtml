@@ -1,0 +1,65 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@using UniversityCafeteriaTask6.Models
+@model List<Employee>
+
+<h2>Employees</h2>
+
+<a asp-action="Create">Add New Employee</a>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Full Name</th>
+        <th>Phone</th>
+        <th>Email</th>
+        <th>Position</th>
+        <th>Salary</th>
+        <th>Hire Date</th>
+        <th>Orders Count</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FullName</td>
+            <td>@item.Phone</td>
+            <td>@item.Email</td>
+            <td>@item.Position</td>
+            <td>@item.Salary</td>
+            <td>@item.HireDate</td>
+
+            <td>
+                @{
+                    int count = 0;
+
+                    foreach (var order in ViewBag.Orders)
+                    {
+                        if (order.EmployeeId == item.Id)
+                        {
+                            count++;
+                        }
+                    }
+                }
+                @count
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+
+                <a asp-action="Delete" asp-route-id="@item.Id"
+                   onclick="return confirm('Are you sure you want to delete this employee?')">
+                    Delete
+                </a>
+            </td>
+        </tr>
+    }
+</table>
