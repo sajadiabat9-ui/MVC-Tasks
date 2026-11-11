@@ -1,0 +1,39 @@
+﻿@using task8.Models
+
+<h2>Create Supply Request</h2>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <table class="table table-bordered">
+        <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Available</th>
+            <th>Quantity</th>
+        </tr>
+
+        @foreach (Product product in ViewBag.Products)
+        {
+            <tr>
+                <td>
+                    @product.Name
+                    <input type="hidden" name="productIds" value="@product.Id" />
+                </td>
+                <td>@product.Price JD</td>
+                <td>@product.Quantity</td>
+                <td>
+                    <input type="number" name="quantities"
+                           value="0" min="0"
+                           max="@product.Quantity"
+                           class="form-control" />
+                </td>
+            </tr>
+        }
+    </table>
+
+    <button type="submit" class="btn btn-primary">Submit Request</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>

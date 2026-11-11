@@ -1,0 +1,14 @@
+﻿@model task8.Models.SupplyRequest
+
+<h2>Delete Request</h2>
+
+<p>Are you sure you want to delete request #@Model.Id?</p>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
