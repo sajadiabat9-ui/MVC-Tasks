@@ -1,12 +1,10 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-
+﻿
+@using UniversityCafeteriaTask6.Models
 @model List<Supplier>
+
 <h2>Suppliers</h2>
-<a href="@Url.Action("Create", "Supplier")" class="btn-outline-secondary">Create New</a>
+
+<a asp-action="Create">Add New Supplier</a>
 
 <table class="table">
     <tr>
@@ -14,6 +12,9 @@
         <th>Name</th>
         <th>Phone</th>
         <th>Email</th>
+        <th>Address</th>
+        <th>Products Count</th>
+        <th>Actions</th>
     </tr>
 
     @foreach (var item in Model)
@@ -23,6 +24,31 @@
             <td>@item.Name</td>
             <td>@item.Phone</td>
             <td>@item.Email</td>
+            <td>@item.Address</td>
+
+            <td>
+                @{
+                    int count = 0;
+
+                    foreach (var product in ViewBag.Products)
+                    {
+                        if (product.SupplierId == item.Id)
+                        {
+                            count++;
+                        }
+                    }
+                }
+                @count
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+
+                <a asp-action="Delete" asp-route-id="@item.Id"
+                   onclick="return confirm('Are you sure?')">Delete</a>
+            </td>
         </tr>
     }
 </table>

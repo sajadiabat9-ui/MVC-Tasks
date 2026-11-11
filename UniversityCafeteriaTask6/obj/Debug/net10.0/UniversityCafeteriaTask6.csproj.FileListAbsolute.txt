@@ -290,10 +290,10 @@ C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\stati
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\Universi.FFD714F6.Up2Date
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\UniversityCafeteriaTask6.dll
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\refint\UniversityCafeteriaTask6.dll
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\UniversityCafeteriaTask6.pdb
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\UniversityCafeteriaTask6.genruntimeconfig.cache
 C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\ref\UniversityCafeteriaTask6.dll
+C:\Users\user\Desktop\MVC-Tasks\UniversityCafeteriaTask6\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

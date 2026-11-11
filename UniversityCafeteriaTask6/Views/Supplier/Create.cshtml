@@ -1,8 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿
 @using UniversityCafeteriaTask6.Models
 @model Supplier
 
@@ -23,6 +19,11 @@
     <div>
         <label>Email</label>
         @Html.TextBoxFor(model => model.Email)
+    </div>
+
+    <div>
+        <label>Address</label>
+        @Html.TextBoxFor(model => model.Address)
     </div>
 
     <input type="submit" value="Save" />

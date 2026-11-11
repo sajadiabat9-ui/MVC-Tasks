@@ -1,22 +1,20 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-@using UniversityCafeteriaTask6.Models
+﻿@using UniversityCafeteriaTask6.Models
 @model List<Product>
 
 <h2>Products</h2>
-<a href="@Url.Action("Create", "Product")" class="btn-outline-secondary">Create New</a>
+
+<a asp-action="Create">Add New Product</a>
 
 <table class="table">
     <tr>
         <th>Id</th>
         <th>Name</th>
+        <th>Description</th>
         <th>Price</th>
         <th>Quantity</th>
-        <th>CategoryId</th>
-        <th>SupplierId</th>
+        <th>Category Id</th>
+        <th>Supplier Id</th>
+        <th>Actions</th>
     </tr>
 
     @foreach (var item in Model)
@@ -24,10 +22,29 @@
         <tr>
             <td>@item.Id</td>
             <td>@item.Name</td>
+            <td>@item.Description</td>
             <td>@item.Price</td>
-            <td>@item.Quantity</td>
+
+            <td>
+                @item.Quantity
+
+                @if (item.Quantity < 5)
+                {
+                    <span style="color:red;">Low Stock</span>
+                }
+            </td>
+
             <td>@item.CategoryId</td>
             <td>@item.SupplierId</td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+
+                <a asp-action="Delete" asp-route-id="@item.Id"
+                   onclick="return confirm('Are you sure?')">Delete</a>
+            </td>
         </tr>
     }
 </table>
